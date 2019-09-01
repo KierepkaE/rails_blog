@@ -18,7 +18,7 @@
 
 ## Watch it live: 
 
-[Click me]('https://blogkierepkae.herokuapp.com')
+[Click me](https://blogkierepkae.herokuapp.com)
 
 
 
