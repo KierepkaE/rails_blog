@@ -18,6 +18,9 @@
 
 ## Watch it live: 
 
+- user: `dhh`
+- password `secret`
+
 [Click me](https://blogkierepkae.herokuapp.com)
 
 
