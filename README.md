@@ -1,24 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+`Simple blog created with Ruby on Rails`
 
-Things you may want to cover:
+
 
 * Ruby version
 
-* System dependencies
+` 2.5.0`
 
-* Configuration
+* Rails version
 
-* Database creation
+` 6.0.0`
 
-* Database initialization
+* Styling
 
-* How to run the test suite
+` materialize`
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
+
