@@ -1,6 +1,8 @@
 # README
 
-`Simple blog created with Ruby on Rails`
+```
+Simple blog created with Ruby on Rails
+```
 
 
 
